@@ -34,4 +34,3 @@ Deployed using AWS Free Tier with zero cost.
 
 ## Author
 Rohini Longadge
-
